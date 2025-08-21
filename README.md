@@ -1,7 +1,8 @@
 # Welcome to your Lovable project
 
 ## Recent Bug Fixes
-
+For the information, As it was mentioned that other AI tools could be used to fix the bugs, 
+So these bugs are fixed using another AI tool named as "cursor.ai".
 ### 1. Duplicate Email Function Calls
 **File**: `src/components/LeadCaptureForm.tsx`
 **Severity**: Critical
